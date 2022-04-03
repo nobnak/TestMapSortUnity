@@ -1,3 +1,6 @@
 [submodule "Assets/Packages/MapSortUnity"]
 	path = Assets/Packages/MapSortUnity
 	url = https://github.com/nobnak/MapSortUnity.git
+[submodule "Assets/Packages/Gist2"]
+	path = Assets/Packages/Gist2
+	url = https://github.com/nobnak/Gist2.git
